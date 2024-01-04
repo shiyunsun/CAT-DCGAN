@@ -24,7 +24,7 @@ During each iteration, we sample 200 real cat images and generate 200 correspond
 - ##### torchvision
 - ##### matplotlib
 ### Generate New Images 😺
-To generate images, start by cloning the repository using the command 
+To generate images, start by cloning the repository using the command:
 ```
 git clone https://github.com/shiyunsun/CAT-DCGAN.git.
 ```

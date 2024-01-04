@@ -29,6 +29,6 @@ To generate images, start by cloning the repository using the command git clone 
 To train your custom model, populate the "training_images" folder with images resized to 64 x 64 pixels. Next, run the GAN_train.ipynb notebook to initiate the training process. This notebook contains all the necessary code and instructions. Keep an eye on the training progress within the notebook, and feel free to fine-tune your model by adjusting hyperparameters or experimenting with different configurations. The repository offers additional functionalities for further exploration. Happy modeling!
    
 # Acknowledgements
-[1] The original DCGAN research paper https://arxiv.org/abs/1511.06434
-[2] DCGAN implementation for human faces: https://github.com/Natsu6767/DCGAN-PyTorch
-[3] Anime-Face-GAN https://github.com/yashy3nugu/Anime-Face-GAN/
+[1] The original DCGAN research paper https://arxiv.org/abs/1511.06434 <br>
+[2] DCGAN implementation for human faces: https://github.com/Natsu6767/DCGAN-PyTorch <br>
+[3] Anime-Face-GAN https://github.com/yashy3nugu/Anime-Face-GAN/ <br>

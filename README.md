@@ -24,7 +24,11 @@ During each iteration, we sample 200 real cat images and generate 200 correspond
 - ##### torchvision
 - ##### matplotlib
 ### Generate New Images 😺
-To generate images, start by cloning the repository using the command git clone https://github.com/CAT-DCGAN.git. Once cloned, run the demo.ipynb notebook. You can also modify the picture size by adjusting the parameters according to your requirements. 
+To generate images, start by cloning the repository using the command 
+```
+git clone https://github.com/shiyunsun/CAT-DCGAN.git.
+```
+Once cloned, run the demo.ipynb notebook in your browser. You can also modify the picture size by adjusting the parameters according to your requirements. 
 ### Train You Own Model 😺
 To train your custom model, populate the "training_images" folder with images resized to 64 x 64 pixels. Next, run the GAN_train.ipynb notebook to initiate the training process. This notebook contains all the necessary code and instructions. Keep an eye on the training progress within the notebook, and feel free to fine-tune your model by adjusting hyperparameters or experimenting with different configurations. The repository offers additional functionalities for further exploration. Happy modeling!
    

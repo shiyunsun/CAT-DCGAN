@@ -11,3 +11,8 @@ The dataset is taken from Kaggle over [here](https://www.kaggle.com/datasets/spa
 - Leaky ReLU Activation: Introduces non-linearity to prevent neuron saturation.
 - Transpose Convolution: Utilized in the generator to upsample noise and create detailed features.
 <img src="assets/DCGAN.jpg" height=50% width=50%>
+
+# Acknowledgements
+- The original DCGAN research paper https://arxiv.org/abs/1511.06434
+- DCGAN implementation for human faces: https://github.com/Natsu6767/DCGAN-PyTorch
+- Anime-Face-GAN https://github.com/yashy3nugu/Anime-Face-GAN/

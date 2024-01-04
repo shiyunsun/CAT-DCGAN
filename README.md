@@ -27,8 +27,9 @@ During each iteration, we sample 200 real cat images and generate 200 correspond
 1. Clone the repo
 2. Run demo.ipynb
 ### Train You Own Model
-1. Load the images to folder "training_images"
-2. Run GAN_train.ipynb
+1. Clone the repo
+2. Load the images to folder "training_images" (They have to be 64 x 64)
+3. Run GAN_train.ipynb
    
 # Acknowledgements
 - The original DCGAN research paper https://arxiv.org/abs/1511.06434

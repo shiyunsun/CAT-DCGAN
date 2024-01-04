@@ -5,7 +5,8 @@ Welcome to Cat-DCGAN, a project dedicated to the creation of captivating and rea
 # Dataset
 The dataset is taken from Kaggle over [here](https://www.kaggle.com/datasets/spandan2/cats-faces-64x64-for-generative-models). The dataset contains 29,843 images of size 64 by 64 pixels. Please note that the dataset is very noisy; thus, you could potentially achieve better results by cleaning the dataset first.
 
-# Deep Convolutional GAN (DCGAN) Overview:
+# Deep Convolutional GAN (DCGAN) 
+## Overview:
 - Convolutional Layers: Captures spatial hierarchies and patterns in input images.
 - Batch Normalization: Stabilizes and accelerates training by normalizing layer inputs.
 - Leaky ReLU Activation: Introduces non-linearity to prevent neuron saturation.

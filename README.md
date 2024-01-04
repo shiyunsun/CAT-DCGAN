@@ -10,4 +10,4 @@ The dataset is taken from Kaggle over [here](https://www.kaggle.com/datasets/spa
 - Batch Normalization: Stabilizes and accelerates training by normalizing layer inputs.
 - Leaky ReLU Activation: Introduces non-linearity to prevent neuron saturation.
 - Transpose Convolution: Utilized in the generator to upsample noise and create detailed features.
-<img src="assets/DCGAN.png" height=50% width=50%>
+<img src="assets/dcgan.png" height=50% width=50%>
